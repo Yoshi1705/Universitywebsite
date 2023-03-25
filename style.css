@@ -352,7 +352,7 @@ h3{
     width:80%;
     margin: 100px auto;
     text-align: center;
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url('D:\\new\\js projects\\website\\eduford_img\\eduford_img\\banner2.jpg');
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url('./banner2.jpg');
     background-position: center;
     background-size: cover;
     border-radius: 10px;
